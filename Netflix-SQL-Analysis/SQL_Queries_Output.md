@@ -56,10 +56,11 @@ WHERE
  <img width="687" height="326" alt="image" src="https://github.com/user-attachments/assets/f6f4c6df-fd42-46ac-9673-227c5ae5cdc9" />
 
 ### --Problem 6 : Find the content added in the last 5 years
-SELECT * //to fit the output, i have selected only 3 columns type , title and date_added
+SELECT * 
 FROM netflix
 WHERE 
 	TO_DATE(date_added,'Month DD, YYYY') >= CURRENT_DATE - INTERVAL '5 years';
+- (to fit the output, i have selected only 3 columns type , title and date_added)
  
 <img width="942" height="317" alt="image" src="https://github.com/user-attachments/assets/d689922a-cf75-4eb3-9a66-2dd217a23aa6" />
 
