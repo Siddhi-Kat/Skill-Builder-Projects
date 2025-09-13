@@ -1,18 +1,17 @@
-# 🎉 A Creative Twist on the Classic FizzBuzz
+## 🎉 A Creative Twist on the Classic FizzBuzz
 
-I recently attended a Python workshop(Pycon 2025) where we explored a fun twist on the classic FizzBuzz problem. Instead of the usual for loops or recursion, we tackled it using Python generators—and it was surprisingly clever!
+I recently attended a PyCon workshop where we revisited the classic FizzBuzz problem — but with an interesting challenge: solve it without using loops or recursion.
 
-At first, I wondered, “How can we do FizzBuzz without a loop?” But generators turned out to be the perfect solution.
+At first, I wondered, “How can we do FizzBuzz without a loop?” The key idea was to use generators. Unlike lists, generators don’t store all values in memory; instead, they yield values only when requested. This means we can even work with infinite sequences without running into memory issues. The only limitation is that generators do not retain previously generated values — they are “forgetful” by design.
 
-- The code might look a bit longer, but the space complexity is constant—just one variable.
-- We started with numbers 1 to 20, but with a small tweak, it can easily handle any range or divisibility check without a jungle of if-else statements.
-- Here’s the quirky part: generators are a bit forgetful—once they move forward, they don’t remember past values.
-  
-Overall, this exercise was fun and eye-opening, showing me a creative way to solve a familiar problem with elegance and efficiency.
+What I found most interesting was how generators made the solution:
 
-## 🌟 Key Takeaways
-- Python generators can replace traditional loops in creative ways
-- Efficient solutions can be achieved with minimal memory
-- Small tweaks make your code flexible and reusable
-- Exploring problems in new ways keeps programming exciting
+✨ More flexible — adding new divisibility checks requires just a single line.\
+🧩 Cleaner — avoiding mutliple if-else statements compared to the traditional approach.\
+🚀 Creative — showed me how to think beyond standard loops and recursion.
 
+Overall, the workshop was an insightful experience and helped me appreciate how Python features like generators can open up new ways of approaching well-known problems.
+
+### 📂 Workshop Code
+The code we wrote during the session has been uploaded to this repository. You can check it out here:
+👉 FizzBuzz.ipynb
