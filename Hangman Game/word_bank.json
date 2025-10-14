@@ -1,0 +1,342 @@
+{
+  "fruits": {
+    "easy": [
+      {
+        "word": "apple",
+        "hint": "Keeps the doctor away 🍎"
+      },
+      {
+        "word": "mango",
+        "hint": "King of fruits 👑"
+      },
+      {
+        "word": "banana",
+        "hint": "Monkey’s favorite 🍌"
+      },
+      {
+        "word": "grape",
+        "hint": "Tiny but juicy 🍇"
+      },
+      {
+        "word": "orange",
+        "hint": "Full of vitamin C 🍊"
+      }
+    ],
+    "medium": [
+      {
+        "word": "papaya",
+        "hint": "Tropical fruit with orange flesh 🌴"
+      },
+      {
+        "word": "kiwi",
+        "hint": "Fuzzy outside, green inside 🥝"
+      },
+      {
+        "word": "guava",
+        "hint": "Pink inside, green outside 💚"
+      },
+      {
+        "word": "pear",
+        "hint": "Shaped like a bell 🔔"
+      },
+      {
+        "word": "plum",
+        "hint": "Small and purple 🍑"
+      }
+    ],
+    "hard": [
+      {
+        "word": "pomegranate",
+        "hint": "Full of red jewels inside 💎"
+      },
+      {
+        "word": "blackcurrant",
+        "hint": "Tiny purple berry for jams 🍇"
+      },
+      {
+        "word": "dragonfruit",
+        "hint": "Looks wild but tastes mild 🐉"
+      },
+      {
+        "word": "blueberry",
+        "hint": "Tiny blue antioxidant bomb 💙"
+      },
+      {
+        "word": "watermelon",
+        "hint": "Summer’s juicy slice 🍉"
+      }
+    ]
+  },
+  "animals": {
+    "easy": [
+      {
+        "word": "cat",
+        "hint": "Loves naps and purring 🐱"
+      },
+      {
+        "word": "dog",
+        "hint": "Man’s best friend 🐶"
+      },
+      {
+        "word": "lion",
+        "hint": "The king of the jungle 🦁"
+      },
+      {
+        "word": "cow",
+        "hint": "Gives us milk 🐄"
+      },
+      {
+        "word": "frog",
+        "hint": "Jumps and croaks 🐸"
+      }
+    ],
+    "medium": [
+      {
+        "word": "zebra",
+        "hint": "Black and white stripes 🦓"
+      },
+      {
+        "word": "monkey",
+        "hint": "Swings on trees 🍌"
+      },
+      {
+        "word": "panda",
+        "hint": "Eats bamboo all day 🐼"
+      },
+      {
+        "word": "camel",
+        "hint": "Has a hump and walks in deserts 🏜️"
+      },
+      {
+        "word": "deer",
+        "hint": "Graceful with antlers 🦌"
+      }
+    ],
+    "hard": [
+      {
+        "word": "giraffe",
+        "hint": "Tallest of them all 🦒"
+      },
+      {
+        "word": "rhinoceros",
+        "hint": "Has a horn on its nose 🦏"
+      },
+      {
+        "word": "chameleon",
+        "hint": "Changes color like magic 🌈"
+      },
+      {
+        "word": "porcupine",
+        "hint": "Don’t hug this spiky one 🦔"
+      },
+      {
+        "word": "kangaroo",
+        "hint": "Carries baby in a pouch 🦘"
+      }
+    ]
+  },
+  "countries": {
+    "easy": [
+      {
+        "word": "india",
+        "hint": "Land of spices 🇮🇳"
+      },
+      {
+        "word": "china",
+        "hint": "Great Wall country 🧱"
+      },
+      {
+        "word": "france",
+        "hint": "Eiffel Tower lives here 🇫🇷"
+      },
+      {
+        "word": "japan",
+        "hint": "Land of the rising sun 🌸"
+      },
+      {
+        "word": "brazil",
+        "hint": "Famous for football and carnivals ⚽🎭"
+      }
+    ],
+    "medium": [
+      {
+        "word": "canada",
+        "hint": "Maple leaf country 🍁"
+      },
+      {
+        "word": "italy",
+        "hint": "Home of pizza and pasta 🍕"
+      },
+      {
+        "word": "egypt",
+        "hint": "Land of pyramids 🏜️"
+      },
+      {
+        "word": "australia",
+        "hint": "Where kangaroos hop 🦘"
+      },
+      {
+        "word": "mexico",
+        "hint": "Known for tacos and sombreros 🌮"
+      }
+    ],
+    "hard": [
+      {
+        "word": "switzerland",
+        "hint": "Land of chocolates and watches 🍫⌚"
+      },
+      {
+        "word": "argentina",
+        "hint": "Land of tango and Messi 💃⚽"
+      },
+      {
+        "word": "netherlands",
+        "hint": "Tulips and windmills 🌷"
+      },
+      {
+        "word": "norway",
+        "hint": "Land of fjords ❄️"
+      },
+      {
+        "word": "iceland",
+        "hint": "Fire and ice island 🧊🔥"
+      }
+    ]
+  },
+  "sports": {
+    "easy": [
+      {
+        "word": "cricket",
+        "hint": "Bat, ball, and wickets 🏏"
+      },
+      {
+        "word": "football",
+        "hint": "Kick it to score ⚽"
+      },
+      {
+        "word": "tennis",
+        "hint": "Played with rackets 🎾"
+      },
+      {
+        "word": "chess",
+        "hint": "Game of kings ♟️"
+      },
+      {
+        "word": "golf",
+        "hint": "Aim for the hole ⛳"
+      }
+    ],
+    "medium": [
+      {
+        "word": "badminton",
+        "hint": "Uses a shuttle 🏸"
+      },
+      {
+        "word": "boxing",
+        "hint": "Gloves on, ring ready 🥊"
+      },
+      {
+        "word": "volleyball",
+        "hint": "Don’t let it touch the ground 🏐"
+      },
+      {
+        "word": "swimming",
+        "hint": "Make waves 🏊"
+      },
+      {
+        "word": "cycling",
+        "hint": "Two wheels of fun 🚴"
+      }
+    ],
+    "hard": [
+      {
+        "word": "archery",
+        "hint": "Aim with precision 🎯"
+      },
+      {
+        "word": "fencing",
+        "hint": "Sword fight with rules 🤺"
+      },
+      {
+        "word": "gymnastics",
+        "hint": "Grace meets strength 🤸"
+      },
+      {
+        "word": "triathlon",
+        "hint": "Swim, bike, and run 🏊🚴🏃"
+      },
+      {
+        "word": "equestrian",
+        "hint": "Ride like a pro 🐎"
+      }
+    ]
+  },
+  "professions": {
+    "easy": [
+      {
+        "word": "doctor",
+        "hint": "Heals the sick 🩺"
+      },
+      {
+        "word": "teacher",
+        "hint": "Spreads knowledge 📚"
+      },
+      {
+        "word": "chef",
+        "hint": "Master of the kitchen 🍳"
+      },
+      {
+        "word": "pilot",
+        "hint": "Flies high in the sky ✈️"
+      },
+      {
+        "word": "farmer",
+        "hint": "Grows our food 🌾"
+      }
+    ],
+    "medium": [
+      {
+        "word": "engineer",
+        "hint": "Builds cool stuff ⚙️"
+      },
+      {
+        "word": "artist",
+        "hint": "Paints the world 🎨"
+      },
+      {
+        "word": "nurse",
+        "hint": "Cares with compassion 💊"
+      },
+      {
+        "word": "photographer",
+        "hint": "Captures memories 📸"
+      },
+      {
+        "word": "firefighter",
+        "hint": "Bravely fights flames 🔥"
+      }
+    ],
+    "hard": [
+      {
+        "word": "architect",
+        "hint": "Designs buildings 🏗️"
+      },
+      {
+        "word": "astronaut",
+        "hint": "Travels beyond Earth 🚀"
+      },
+      {
+        "word": "biochemist",
+        "hint": "Studies life at molecule level 🧪"
+      },
+      {
+        "word": "statistician",
+        "hint": "Makes sense of numbers 📊"
+      },
+      {
+        "word": "linguist",
+        "hint": "Loves languages 🗣️"
+      }
+    ]
+  }
+}
