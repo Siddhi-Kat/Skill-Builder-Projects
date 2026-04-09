@@ -1,33 +1,38 @@
-# Expense Management System
+# 📁 Project Portfolio
 
-This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
+## 📌 Overview
 
+Welcome to this repository!
+This folder contains a collection of my projects showcasing my skills in **design, analysis, and problem-solving** across different domains.
 
-## Project Structure
+Each project included here reflects my approach to:
 
-- **frontend/**: Contains the Streamlit application code.
-- **backend/**: Contains the FastAPI backend server code.
-- **tests/**: Contains the test cases for both frontend and backend.
-- **requirements.txt**: Lists the required Python packages.
-- **README.md**: Provides an overview and instructions for the project.
+* Understanding real-world problems
+* Applying creative and technical solutions
+* Delivering structured and impactful outcomes
 
+---
 
-## Setup Instructions
+## 🚀 Purpose of This Repository
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/expense-management-system.git
-   cd expense-management-system
-   ```
-1. **Install dependencies:**:   
-   ```commandline
-    pip install -r requirements.txt
-   ```
-1. **Run the FastAPI server:**:   
-   ```commandline
-    uvicorn server.server:app --reload
-   ```
-1. **Run the Streamlit app:**:   
-   ```commandline
-    streamlit run frontend/app.py
-   ```
+This collection is intended to:
+
+* Showcase my **skills and growth**
+* Serve as a **portfolio for academic/professional use**
+* Demonstrate my ability to work on **end-to-end projects**
+
+---
+
+## 🛠 Tools & Skills Highlighted
+
+Some of the tools and skills used across these projects include:
+
+* Data analysis tools (Excel, etc.)
+* Problem-solving and structured thinking
+* Python,SQL
+
+---
+
+## 📬 Contact
+
+If you’d like to collaborate or learn more about my work, feel free to reach out!
