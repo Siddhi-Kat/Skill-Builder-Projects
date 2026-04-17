@@ -39,11 +39,11 @@ Detailed analysis and full strategy available in the presentation.
 ```
 quickbite-crisis-analysis/
 │
+├── README.md
 ├── problem_statement.pdf
 ├── metadata.txt
 ├── analysis.ipynb / analysis.py
 ├── requirements.txt
-├── README.md
 ```
 
 ---
