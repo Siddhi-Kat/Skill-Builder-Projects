@@ -31,7 +31,7 @@ The analysis and insights are structured as follows:
 Detailed analysis and full strategy available in the presentation.
 
 
-👉 [View Full Analysis](./QuickBite_Express.pdf)
+👉 [View Full Analysis](./quickbite_presentation.pdf)
 
 ---
 
