@@ -34,6 +34,7 @@ A post-campaign statistical test was conducted to determine whether the campaign
 
 ## 📊 Key Insights
 Key business insights and visual analysis are included in the **presentation deck (PDF)** attached in this repository.
+Credit_Card_Launch_Analysis/atliqo_credit_card_insights.pdf
 
 ---
 
@@ -67,7 +68,7 @@ AtliQo-Credit-Card-Analysis/
 │
 ├── atliqo_bank_phase_1.ipynb
 ├── atliqo_bank_phase2.ipynb
-├── atliqo_credit_card_presentation.pdf
+├── atliqo_credit_card_insights.pdf
 └── README.md
 ````
 
