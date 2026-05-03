@@ -34,8 +34,7 @@ A post-campaign statistical test was conducted to determine whether the campaign
 
 ## 📊 Key Insights
 Key business insights and visual analysis are included in the **presentation deck (PDF)** attached in this repository.
-https://github.com/Siddhi-Kat/Skill-Builder-Projects/blob/main/Credit_Card_Launch_Analysis/atliqo_credit_card_insights.pdf
-
+[View the insights (PDF)](https://github.com/Siddhi-Kat/Skill-Builder-Projects/blob/main/Credit_Card_Launch_Analysis/atliqo_credit_card_insights.pdf)
 ---
 
 ## 🎯 Business Outcome
