@@ -8,13 +8,13 @@
 
 Every customer journey starts with a click, but not every visitor becomes a customer.
 
-This project analyzes Fuzzy Factory's, a toy store, e-commerce data to understand customer acquisition, website engagement, product performance, and purchasing behavior. By combining SQL-based business analysis with interactive Power BI dashboards, the project identifies opportunities to improve conversion rates and drive business growth.
+This project analyzes Maven toy store, e-commerce data to understand customer acquisition, website engagement, product performance, and purchasing behavior. By combining SQL-based business analysis with interactive Power BI dashboards, the project identifies opportunities to improve conversion rates and drive business growth.
 
 ---
 
 ## 🎯 Business Problem
 
-Fuzzy Factory wants to better understand its online customer journey by answering questions such as:
+Maven toy store wants to better understand its online customer journey by answering questions such as:
 
 - Which marketing channels generate the highest-quality traffic?
 - How effectively does the website convert visitors into customers?
@@ -37,7 +37,7 @@ Fuzzy Factory wants to better understand its online customer journey by answerin
 
 ## 📂 Dataset
 
-The project uses the **Fuzzy Factory** e-commerce dataset consisting of six relational tables:
+The project uses the **Maven toy store** e-commerce dataset consisting of six relational tables:
 
 - Website Sessions
 - Website Pageviews
@@ -158,7 +158,7 @@ Understanding the proportion of one-time and repeat customers provides insight i
 # 📁 Repository Structure
 
 ```
-📦 Fuzzy-Factory-Customer-Journey-Analysis
+📦 Maven-Toy-Store-Customer-Journey-Analysis
 │
 ├── 📂 data
 │
@@ -171,7 +171,7 @@ Understanding the proportion of one-time and repeat customers provides insight i
     ├── sql_outputs.csv
 │
 ├── 📂 powerbi
-│   └── Fuzzy_Factory_Dashboard.pbix
+│   └── Toy_Store_Dashboard.pbix
 │
 ├── 📂 images
 │   
