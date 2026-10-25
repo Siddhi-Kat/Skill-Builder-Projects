@@ -7,7 +7,7 @@ The goal was to understand how operational failures and customer sentiment impac
 ---
 
 ## 🚨 Problem Statement
-Refer to `problem_statement.pdf` for full details.
+Refer to **[problem_statement.pdf](https://github.com/Siddhi-Kat/Skill-Builder-Projects/blob/main/quickbite-crisis-analysis/RPC_18_Problem_Statement.pdf** for full details.
 
 ---
 
